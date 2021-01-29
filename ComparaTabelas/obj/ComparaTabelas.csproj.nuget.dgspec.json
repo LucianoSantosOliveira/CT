@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucianoq\\Documents\\ComparaTabelas\\ComparaTabelas\\ComparaTabelas.csproj": {}
+    "C:\\Users\\lucianoq\\Source\\Repos\\CT\\ComparaTabelas\\ComparaTabelas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucianoq\\Documents\\ComparaTabelas\\ComparaTabelas\\ComparaTabelas.csproj": {
+    "C:\\Users\\lucianoq\\Source\\Repos\\CT\\ComparaTabelas\\ComparaTabelas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucianoq\\Documents\\ComparaTabelas\\ComparaTabelas\\ComparaTabelas.csproj",
+        "projectUniqueName": "C:\\Users\\lucianoq\\Source\\Repos\\CT\\ComparaTabelas\\ComparaTabelas.csproj",
         "projectName": "ComparaTabelas",
-        "projectPath": "C:\\Users\\lucianoq\\Documents\\ComparaTabelas\\ComparaTabelas\\ComparaTabelas.csproj",
+        "projectPath": "C:\\Users\\lucianoq\\Source\\Repos\\CT\\ComparaTabelas\\ComparaTabelas.csproj",
         "packagesPath": "C:\\Users\\lucianoq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucianoq\\Documents\\ComparaTabelas\\ComparaTabelas\\obj\\",
+        "outputPath": "C:\\Users\\lucianoq\\Source\\Repos\\CT\\ComparaTabelas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucianoq\\AppData\\Roaming\\NuGet\\NuGet.Config",

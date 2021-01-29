@@ -2,6 +2,7 @@
 using ComparaTabelas.Filtros;
 using DocumentFormat.OpenXml.Office2010.PowerPoint;
 using System;
+using System.IO;
 
 
 namespace ComparaTabelas
@@ -27,9 +28,8 @@ namespace ComparaTabelas
                 Filtro Ft = new Filtro();
                 FiltroCliente Fc = new FiltroCliente();
                 FiltroEncerrados Fe = new FiltroEncerrados();
-                
-                
-                    
+
+
                     Ft.setCaminho(System.IO.File.ReadAllText(@"C:\ComparaTabelas\caminhoFiltro.txt").ToString());
                     Ft.setPlanilha("Plani1");
 
